@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Games4Exchange</title>
+
+<style>
+h1{color: red}
+h1{font-family:Impact}
+h1{background-color: yellow}
+h2{color:yellow}
+p{color: blue}
+</style>
+
+</head>
+<body>
+<h1><h2>Welcome</h2> <h2>to</h2> <h1>Games4Exchange</h1></h1>
+<p>
+The goal of this website is to have players trade games with other players!
+</p>
+<h6>
+Creators
+</h6>
+<p>Shai Welsh</p>
+<p>-Website Corrdinatior</p>
+<p>Sawyer Thompson</p>
+<p>-Website Designer</p>
+<p>Jack Schaffner</p>
+<p>-Wesite Manager</p>
+<p> if you are having trouble sending your games or recieve a broken game contact us at games4exchange13@gmail.com</p> you are having trouble sending your games or recieve a broken game contact us at games4exchange13@gmail.com
+	Second Page
+	-Renting
+	Third Page
+	-Trading	 
+</body>
+</html>
